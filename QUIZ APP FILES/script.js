@@ -28,7 +28,13 @@ const quizData = [
       question: "Which organ is responsible for pumping blood?",
       options: ["Brain", "Heart", "Lungs", "Liver"],
       correct: 1
-    }
+    },
+    
+    {
+      question:"Which of the following is the largest coen on Earth?",
+      options:[" Atlantic Ocean","Indian Ocean","Arctic Ocean","Pacific Ocean"],
+       correct:4
+    },
   ];
   
   let currentQuestionIndex = 0;
