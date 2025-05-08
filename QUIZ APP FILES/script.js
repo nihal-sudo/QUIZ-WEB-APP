@@ -35,6 +35,12 @@ const quizData = [
       options:[" Atlantic Ocean","Indian Ocean","Arctic Ocean","Pacific Ocean"],
        correct:4
     },
+    {
+      question:" Which planet is closest to the Sun?",
+       options:["Earth"," Mars","venus"," Mercury"],
+        correct:4
+    },
+  
   ];
   
   let currentQuestionIndex = 0;
