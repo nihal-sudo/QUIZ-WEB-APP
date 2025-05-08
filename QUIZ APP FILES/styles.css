@@ -1,0 +1,30 @@
+body {
+    background: linear-gradient(to right, #6dd5ed, #2193b0);
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .container {
+    max-width: 600px;
+  }
+  
+  .d-none {
+    display: none !important;
+  }
+  
+  .timer {
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+  
+  .progress {
+    height: 20px;
+  }
+  
+  .option-label {
+    width: 100%;
+    text-align: left;
+  }
+  
