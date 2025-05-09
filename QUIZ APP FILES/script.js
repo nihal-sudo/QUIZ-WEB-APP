@@ -40,7 +40,23 @@ const quizData = [
        options:["Earth"," Mars","venus"," Mercury"],
         correct:4
     },
-  
+    {
+        question:"which animal is the national animal of the United States?",
+        options:["Bald Eagle","Bison","wolf","Black Bear"],
+        correct:1
+        
+    },
+    {
+        question:"Which of the following is a cmmon algorithm used for sorting data?",
+        options:["Hash Table","Binary search","Bubble sort","Linked List"],
+        correct:3
+    },
+    {
+    question:"  Who is the Father of the Computer?",
+        options:["Charles Babbage","Thomas Edison","Albert Einstein","Isaac Newton"],
+      correct:1
+    },
+    
   ];
   
   let currentQuestionIndex = 0;
