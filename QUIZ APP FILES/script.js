@@ -33,28 +33,28 @@ const quizData = [
     {
       question:"Which of the following is the largest coen on Earth?",
       options:[" Atlantic Ocean","Indian Ocean","Arctic Ocean","Pacific Ocean"],
-       correct:4
+       correct:3
     },
     {
       question:" Which planet is closest to the Sun?",
        options:["Earth"," Mars","venus"," Mercury"],
-        correct:4
+        correct:3
     },
     {
         question:"which animal is the national animal of the United States?",
         options:["Bald Eagle","Bison","wolf","Black Bear"],
-        correct:1
+        correct:0
         
     },
     {
         question:"Which of the following is a cmmon algorithm used for sorting data?",
         options:["Hash Table","Binary search","Bubble sort","Linked List"],
-        correct:3
+        correct:2
     },
     {
     question:"  Who is the Father of the Computer?",
         options:["Charles Babbage","Thomas Edison","Albert Einstein","Isaac Newton"],
-      correct:1
+      correct:0
     },
     
   ];
