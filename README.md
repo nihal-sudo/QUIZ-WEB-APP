@@ -15,8 +15,8 @@
 ---
 
 # ❓ Questions Screen :-
-<img src="./PRJ ScrnShts/QSS1.jpg" height="400em">
-<img src="./PRJ ScrnShts/QSS2.jpg" height="400em">
+<img src="./PRJ ScrnShts/QSS1.jpg" height="500em">
+<img src="./PRJ ScrnShts/QSS2.jpg" height="500em">
 
 ---
 
